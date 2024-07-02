@@ -1,6 +1,6 @@
 To see the live link click here: 👉https://shasmitadas.github.io/spotify-clone/
 <br/>
-In netlify : https://shasmitadas.github.io/spotify-clone/
+In netlify : https://reliable-elf-8ff08f.netlify.app/
 
 
 
